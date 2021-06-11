@@ -1,0 +1,16 @@
+# build files
+target
+build
+dist
+lib_managed
+# runtime files
+node_modules
+.vertx
+# ide
+.classpath
+.project
+.idea
+.vscode
+.history
+.lock
+.DS_Store
